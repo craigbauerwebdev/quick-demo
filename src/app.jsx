@@ -14,7 +14,7 @@ export const App = component$(() => {
           <img src={qwikLogo} class="logo qwik" alt="Qwik logo" />
         </a>
       </div>
-      <h1>Qwik!!!</h1>
+      <h1>Qwik</h1>
       <div class="card">
         <button onClick$={() => count.value++}>count is {count.value}</button>
         <p>
